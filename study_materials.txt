@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=zxQyTK8quyY&ab_channel=StatQuestwithJoshStarmer
+Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! - StatQuestwithJoshStarmer
+
+
+https://www.youtube.com/results?search_query=attention+is+all+you+need
+Attention Mechanism: Overview - google
+
+
+https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown
+But what is a GPT? Visual intro to Transformers | Deep learning, chapter 5 - 3Blue1Brown
+
+
+https://www.youtube.com/watch?v=kCc8FmEb1nY&t=0s&ab_channel=AndrejKarpathy
+Let's build GPT: from scratch, in code, spelled out. - AndrejKarpathy
+
+
+
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) - article by jalammar
+
+https://jalammar.github.io/illustrated-transformer/
+The Illustrated Transformer - article by jalammar
