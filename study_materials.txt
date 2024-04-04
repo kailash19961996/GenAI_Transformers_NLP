@@ -20,3 +20,7 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 
 https://jalammar.github.io/illustrated-transformer/
 The Illustrated Transformer - article by jalammar
+
+
+https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch
+Datacamp - How Transformers work
