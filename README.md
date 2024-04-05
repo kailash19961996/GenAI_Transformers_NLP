@@ -2,7 +2,7 @@
 
 This project is a transformer-based model that generates short, creative stories from the TinyStories dataset. The goal of this project is to explore the capabilities of transformer models in generating coherent and engaging narratives.
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/NK4UL6NQpdw?si=n5TQSigkgwmvg-c2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+https://github.com/kailash19961996/Transformers_NLP/assets/123597753/36c563c0-085d-406e-885e-1551ad91e7bd
 
 ## Features
 
