@@ -44,8 +44,8 @@ The model is trained on the TinyStories dataset, with the objective of minimizin
 
 ## Deployment
 
-The Tiny Story Generator is deployed as a web application using Streamlit and is available at [your-project-url].
+The Tiny Story Generator is deployed as a web application using Streamlit
 
 ## Acknowledgments
 
-This project was inspired by the advancements in transformer-based language models and the TinyStories dataset. We would like to acknowledge the contributions of the research community in the field of natural language processing and generation.
+This project was inspired by the advancements in transformer-based language models and the TinyStories dataset. Big thanks to the contributions of the research community in the field of natural language processing and generation.
