@@ -2,6 +2,8 @@
 
 This project is a transformer-based model that generates short, creative stories from the TinyStories dataset. The goal of this project is to explore the capabilities of transformer models in generating coherent and engaging narratives.
 
+<iframe width="560" height="315" src="https://youtu.be/NK4UL6NQpdw" frameborder="0" allowfullscreen></iframe>
+
 ## Features
 
    - Transformer-based architecture for text generation
