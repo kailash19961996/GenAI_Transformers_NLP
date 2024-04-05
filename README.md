@@ -57,7 +57,7 @@ Transformer(
   )
   (fc): Linear(in_features=512, out_features=5000, bias=True)
   (dropout): Dropout(p=0.1, inplace=False)
-)'''
+)
 
 
 ## Future Improvements
