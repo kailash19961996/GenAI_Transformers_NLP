@@ -32,7 +32,7 @@ The model is built using PyTorch and the Transformer architecture. It consists o
 The model is trained on the TinyStories dataset, with the objective of minimizing the cross-entropy loss between the model's output and the target sequence.
 
 ## Architecture
-"""
+'''
    Transformer(
      (decoder_embedding): Embedding(5000, 512)
      (positional_encoding): PositionalEncoding()
@@ -57,7 +57,7 @@ The model is trained on the TinyStories dataset, with the objective of minimizin
      (fc): Linear(in_features=512, out_features=5000, bias=True)
      (dropout): Dropout(p=0.1, inplace=False)
    )
-"""
+'''
 
 ## Future Improvements
 
