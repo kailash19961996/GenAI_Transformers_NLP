@@ -61,6 +61,32 @@ Python
 
 ![Screenshot 2024-04-05 at 1 21 50 PM](https://github.com/kailash19961996/week_5_transformers/assets/123597753/be05701f-0a7f-47a5-a28e-6a3c5b1eaed4)
 
+```python
+Transformer(
+  (decoder_embedding): Embedding(5000, 512)
+  (positional_encoding): PositionalEncoding()
+  (decoder_layers): ModuleList(
+    (0-5): 6 x DecoderLayer(
+      (self_attn): MultiHeadAttention(
+        (W_q): Linear(in_features=512, out_features=512, bias=True)
+        (W_k): Linear(in_features=512, out_features=512, bias=True)
+        (W_v): Linear(in_features=512, out_features=512, bias=True)
+        (W_o): Linear(in_features=512, out_features=512, bias=True)
+      )
+      (feed_forward): PositionWiseFeedForward(
+        (fc1): Linear(in_features=512, out_features=512, bias=True)
+        (fc2): Linear(in_features=512, out_features=512, bias=True)
+        (relu): ReLU()
+      )
+      (norm1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      (norm2): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+  )
+  (fc): Linear(in_features=512, out_features=5000, bias=True)
+  (dropout): Dropout(p=0.1, inplace=False)
+)'''
+
 
 ## Future Improvements
 
