@@ -4,6 +4,8 @@ This project is a transformer-based model that generates short, creative stories
 
 https://github.com/kailash19961996/Transformers_NLP/assets/123597753/36c563c0-085d-406e-885e-1551ad91e7bd
 
+For full video : ([https://youtu.be/GE4cgfvCaDk](https://youtu.be/qcdfD2Ryxw8?si=DKQG8ZgABMBkVc7f))
+
 ## Features
 
    - Transformer-based architecture for text generation
